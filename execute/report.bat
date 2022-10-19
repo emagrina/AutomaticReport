@@ -1,0 +1,1 @@
+C:\Users\ernest.magrina.ext\Downloads\Report\venv\Scripts\python.exe C:/Users/ernest.magrina.ext/Downloads/Report/main.py
